@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a web-based ToDo application that allows users to manage their tasks efficiently. The application provides functionalities to add, remove tasks, and display error messages when necessary. Error messages disappear automatically after 3 seconds. The project is built using React, TypeScript for type checking, Context API and useReducer for state management, and includes error handling. The application interacts with a server to persist tasks.
+This project is a web-based ToDo application that allows users to manage their tasks efficiently. The application provides functionalities to add, remove, edit tasks, filter tasks by status (Completed, Active, All), and display error messages when necessary. Error messages disappear automatically after 3 seconds. The project is built using React, TypeScript for type checking, Context API and useReducer for state management, and includes error handling. The application interacts with a server to persist tasks.
 
 ## Technologies Used
 
